@@ -1,0 +1,23 @@
+Enunciado:
+
+
+Usted ha sido contratado por nuestra empresa para programar el sueldo a pagar a nuestros empleados teniendo en cuenta que tomamos en cuenta el salario base por ley, el monto de ventas del vendedor y los años de servicio.
+
+
+Objetivos:
+
+
+1.- Usando Typescript cree una interface llamada Empleado, que debe tener los siguientes datos: nombre, montoVentas (referido al monto de ventas en el mes) y tiempo (años de experiencias). Ademas declare e inicialice una variable para el sueldo base.
+
+
+2.- Inicialice tres empleados del tipo de dato Empleado (es importante que inicialice los valores en la instanciacion).
+Por ejemplo: eduardo:Empleado = {nombre:"Eduardo", ventas: 1000, tiempo: 5}
+
+
+3.- Cree una funcion que en el parametro formal acepte una variable de tipo Empleado
+
+
+4.- Dentro de la funcion realice el calculo del sueldo a pagar al empleado, esto quiere decir que esta funcion debe tener un valor de retorno, tomando en cuenta que el sueldo a pagar es igual a sueldo base + el 30% de el monto de ventas + el porcentaje de años de servicio del sueldo base.
+
+
+5.- Guarde el valor que retorna la funcion en una variable, luego imprima por la consola de forma clara el sueldo del empleado indicando el nombre del mismo y mostrando el resto de los datos del mismo.
