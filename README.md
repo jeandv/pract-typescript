@@ -1,2 +1,2 @@
 # pract-typescript
-Practicas y desafios de TypeScript.
+Practicas y desafios de TypeScript 🇹🇸
