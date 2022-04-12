@@ -1,0 +1,13 @@
+Enunciado:
+Realizar las siguientes actividades:
+
+Objetivos:
+1.- Crear un archivo TypeScript para crear una clase con el nombre Tren, que tenga el atributo nombre y el método pintar
+
+2.- Programar el método "pintar" para que usando un contexto de dibujo recibido por parámetro, pinte un tren como el que aparece en la imagen adjuntodesafio2, usando círculos, cuadros, trazos, usando colores aleatorios, y que pinte el nombre del tren en algun lugar del canvas. Puede tambien crear el tren en un lugar especifico (y no aleatorio) si le parece mas comodo.
+
+3.- Instanciar la clase Tren, asignar un nombre cualquiera
+
+4.- Crear un archivo HTML que contenga un canvas e incluya el archivo JavaScript generado al compilar el archivo TypeScript creado en el objetivo 1
+
+5.- Pintar en el canvas del archivo HTML el tren instanciado en el objetivo 3
