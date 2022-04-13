@@ -1,6 +1,6 @@
 ## Descripción 💬
 
-✔ En este repositorio estan las practicas y desafios en mi recorrido de aprendizaje en el preprocesador Typescript.
+✔ En este repositorio estan las practicas y desafios en mi recorrido de aprendizaje en Typescript.
   
 ## Autor 🤠
 
