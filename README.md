@@ -16,6 +16,7 @@
 ## Tecnologias usadas 🛠️
 
 · HTML5 <br>
+· <canvas> <br>
 · CSS3 <br>
 · Javascript <br>
 · Typescript <br>
