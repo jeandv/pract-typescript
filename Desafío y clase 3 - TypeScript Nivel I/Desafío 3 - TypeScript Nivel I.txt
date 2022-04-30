@@ -1,0 +1,25 @@
+Enunciado:
+
+Realizar las siguientes actividades:
+
+Objetivos:
+
+
+
+1.- Crear una clase con el nombre Elemento, que contenga los atributos privados: color (de tipo string) y contexto (de tipo RenderContext2d). Agregar los getter y setter a ambos atributos y el constructor que reciba el contexto como parámetro obligatorio y el color como parámetro opcional. Si el color no es recibido al ejecutar el constructor, se asigna un color aleatorio.
+
+
+
+2.- Crear una clase con el nombre Estrella que herede de la clase Elemento, que tenga los atributos protected X y Y. Hacer los getter y los setter. El constructor de la clase debe asignar valores aleatorios a los atributos X y Y, y debe recibir el contexto de dibujo por parámetro
+
+
+
+3.- Crear 2 clases que hereden de la clase Estrella, una con el nombre EstrellaRedonda y otra con el nombre EstrellaPunteada, cada uno con su método constructor que reciba por parámetro el contexto de dibujo. Crear a cada clase un método "pintar", que pinte en el contexto en la posición (X,Y) una estrella rellena con color (mirar la imagen adjunta para saber como se debe pintar cada estrella). 
+
+
+
+4.- Crear una clase Cielo que herede de la clase Elemento. Agregar un método con el nombre "pintarCielo", que pinte un cuadro del tamaño del canvas del color del elemento. Adicionalmente, debe instanciar y pintar un número aleatorio de estrellas tanto punteadas como redondas.
+
+
+
+5.- Crear un archivo HTML que contenga un canvas e incluya el archivo JS generado al compilar el archivo TS, de forma tal que en el canvas se pinte el cielo y las estrellas. Instanciar la clase Cielo y ejecutar el método "pintarCielo"
